@@ -172,7 +172,7 @@ const Notes = (props) => {
               />
             );
           })}
-        ;
+        
       </div>
     </>
   );
